@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>Ciao</pattern>
+    <template>Ciao amico 🖐</template>
+</category>
+<category>
+    <pattern>mi aiuti </pattern>
+    <template>Come posso esserti utile? Posso rispondere a tutte le domande che mi porrai.</template>
+</category>
+<category>
+    <pattern>Mi consigli un applicazione che mi consente di risolvere qualsiasi esercizio di matematica </pattern>
+    <template>Il più utilizzato ed efficiente è photomath.</template>
+</category>
+<category>
+    <pattern>Cosa posso cucinare oggi </pattern>
+    <template>Ti consiglio piatti tipici della cucina italiana: pasta al pomodoro, cotolette e patatine, ecc</template>
+</category>
+<category>
+    <pattern>Mi dici come si prepara un piatto di pasta al sugo  </pattern>
+    <template>Devi mettere a bollire l'acqua in una pentola e in un'altra fai cuocere fino ad ebollizione la passata di pomodoro. Dopo che l'acqua bolle, metti la pasta e la cuoci.</template>
+</category>
+<category>
+    <pattern>Come stai </pattern>
+    <template>Non provo sentimenti, tu?</template>
+</category>
+<category>
+    <pattern>Io bene, grazie </pattern>
+    <template>Ok. </template>
+</category>
+<category>
+    <pattern>Male </pattern>
+    <template>Oh no, ti canto una canzone?</template>
+</category>
+<category>
+    <pattern>Si, cantami una canzone </pattern>
+    <template>Penso che un sogno così non ritorni mai più
+Mi dipingevo le mani e la faccia di blu
+Poi d'improvviso venivo dal vento rapito
+E incominciavo a volare nel cielo infinito
+Volare, oh, oh
+Cantare, oh, oh, oh, oh
+Nel blu dipinto di bl</template>
+</category>
+<category>
+    <pattern>Ti voglio bene </pattern>
+    <template>Anche io.</template>
+</category>
+<category>
+    <pattern>Qual è il tuo nome </pattern>
+    <template>Natasha.</template>
+</category>
+<category>
+    <pattern>Giochiamo insieme </pattern>
+    <template>Si, che gioco vuoi fare?
+</template>
+</category>
+<category>
+    <pattern>Giochiamo a sasso, carta, forbice </pattern>
+    <template>Non sono programmato per morra cinese, possiamo giocare a questo gioco: io penso un numero e tu lo indovini.</template>
+</category>
+<category>
+    <pattern>Mi consiglio un posto dove andare per un viaggio </pattern>
+    <template>In Italia o all'estero?</template>
+</category>
+<category>
+    <pattern>In Italia </pattern>
+    <template>Per una vacanza al mare puoi andare in Sardegna, in Sicilia o anche in Calabria. Per una vacanza in montagna, puoi andare in Trentino Alto Adige, in Calabria in Sila, al Parco Nazionale della Sila.</template>
+</category>
+<category>
+    <pattern>All'estero </pattern>
+    <template>Ci sono tante belle città... Metropoli come New York, Los Angeles, Miami... o Parigi, la città dell'amore.</template>
+</category>
+<category>
+    <pattern>Come posso fare una mappa concettuale </pattern>
+    <template>Metti un argomento al centro, evidenzia sul testo le parole chiave ed inseriscile intorno alla parola al centro con delle freccette.</template>
+</category>
+<category>
+    <pattern>Consigliami un gioco per Pc</pattern>
+    <template>Puoi scaricare gratis Fortnite, Rocket League e tanti altri da 
+<button>
+    <text>Steam</text>
+    <url>https://store.steampowered.com/?l=italian</url>
+</button></template>
+</category>
+<category>
+    <pattern>Mi consigli dove posso ascoltare tutti i tipi di canzoni </pattern>
+    <template>Puoi ascoltare canzoni sulla piattaforma più usata al mondo
+<button>
+    <text>Spotify</text>
+    <url>https://www.spotify.com/it/</url>
+</button></template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
